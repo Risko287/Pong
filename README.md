@@ -7,8 +7,10 @@ Táto online hra Pong využíva WebSocket technológiu na vytvorenie herného pr
 
 ## Technológie
 
-- **Serverová Logika:** Herná logika je postavená na PHP, ktorý riadi plynulý chod hry a komunikáciu medzi hráčmi.
-- **Grafické Spracovanie:** Grafické zobrazenie hry je vytvorené pomocou JavaScriptu, ktorý využíva HTML canvas na vykreslenie hracej plochy, lopty a hráčov.
+- **Serverová Logika:** Herná logika je postavená na PHP, ktorý riadi plynulý chod hry a komunikáciu medzi hráčmi. [Zobraziť kód](server3.php)
+  
+- **Grafické Spracovanie:** Grafické zobrazenie hry je vytvorené pomocou JavaScriptu, ktorý využíva HTML canvas na vykreslenie hracej plochy, lopty a hráčov.[Zobraziť kód](game3.js)
+  
 - **WebSocket:** Rýchla a spoľahlivá komunikácia medzi hráčmi je umožnená WebSocket protokolom. Vďaka nemu je možné sledovať herný stav v reálnom čase.
 
 ## Hlavné Funkcie
