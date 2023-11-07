@@ -1,0 +1,26 @@
+html, body {
+    font-family:monospace;
+}
+
+#log {
+    height:200px;
+    border:1px solid black;
+    overflow:auto;
+}
+
+#msg {
+    width: 330px;
+}
+
+div {
+    width:500px;
+    margin: 10px auto 10px auto;
+}
+
+#number {
+    width: 60px;
+    font-size: 115%;
+    text-align: center;
+    background: lightgreen;
+    padding: 5px;
+}
